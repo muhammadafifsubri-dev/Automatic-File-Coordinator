@@ -1,0 +1,3 @@
+Hello, this is file coordinator that was made to saving time by moving specific files into each directory.
+this tools was still underdevelopment, will be coming out officially soon.
+very soon...
